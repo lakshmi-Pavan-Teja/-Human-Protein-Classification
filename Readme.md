@@ -3,6 +3,8 @@
 ## Dataset:
 Dataset contains 512x512 resolution images of 3 channels (RGB). Images are in PNG format. Train set contains - 19236 images Test set contains - 8243 images (Public leaderboard results are from just 40%(3297 images) of this and rest 60% will be used for private leaderboard)
 
+For Dataset Go To: https://www.kaggle.com/c/jovian-pytorch-z2g/data
+
 ## Model Built:
 
 1. In this I used PytorchTransforms
