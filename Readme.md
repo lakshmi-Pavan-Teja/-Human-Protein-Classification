@@ -43,4 +43,9 @@ opt_func = torch.optim.Adam
 ![image](https://user-images.githubusercontent.com/61023747/90020022-e0223a00-dccc-11ea-9a5e-48249d6ad41c.png)
 
 
+## Achievement
+
+**Secured 218th rank among 894 i.e.,Top 25%** in [Kaggle In-Class Competition](https://www.kaggle.com/c/jovian-pytorch-z2g/data) which was conducted by [Jovian.ml](https://www.jovian.ml/)
+
+ "Might be not a good rank but I gave my best, my first Step towards the Data Science"
 
